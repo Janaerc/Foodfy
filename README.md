@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://rocketseat.com.br/static/images/launchbase/launchbase.sv" alt="Launchbase" width="120">
+  <img src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" alt="Launchbase" width="120">
 <br>
 <br>
 Foodfy
@@ -16,7 +16,7 @@ Foodfy
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="https://ik.imagekit.io/p70mybihjq/video/Foodfy_-_Google_Chrome_2020-04-23_11-47-13_wiexkLGj9.mp4" alt="video" height="425">
+  <img src="https://ik.imagekit.io/p70mybihjq/Foodfy-Google-Chrome-2020-04-23-11-47-13_6r9Sa90qk.gif" alt="video" height="425">
 </div>
 
 <hr />
