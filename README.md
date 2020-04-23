@@ -26,9 +26,9 @@ Foodfy
 
 Objetivo: Construir um site completo para uma empresa de receitas chamada Foodfy.
 
-Tecnologias Utilizadas: 
-Visual Studio Code
-JavaScript
+## Tecnologias Utilizadas 
+- Visual Studio Code
+- JavaScript
 
 ## Getting started
 
