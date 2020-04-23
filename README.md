@@ -16,7 +16,7 @@ Foodfy
 
 [//]: # (Add your gifs/images here:)
 <div>
- ![git foodfy] (https://github.com/Janaerc/Foodfy/blob/master/Foodfy.gif)
+ <img src="https://github.com/Janaerc/Foodfy/blob/master/Foodfy.gif" alt="gif foodfy">
 </div>
 
 <hr />
