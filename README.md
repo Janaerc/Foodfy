@@ -16,7 +16,7 @@ Foodfy
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="https://ik.imagekit.io/p70mybihjq/Foodfy-Google-Chrome-2020-04-23-11-47-13_6r9Sa90qk.gif" alt="video" height="425">
+  <video src="https://ik.imagekit.io/p70mybihjq/Foodfy-Google-Chrome-2020-04-23-11-47-13_6r9Sa90qk.gif" alt="video" height="425">
 </div>
 
 <hr />
